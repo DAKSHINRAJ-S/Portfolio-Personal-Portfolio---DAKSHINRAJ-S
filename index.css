@@ -691,10 +691,6 @@ button:hover {
         align-items: center; 
         margin-top: 1.75rem;
     }
-
-    #hire-container{
-        transform: translate(-22rem,12rem);
-    }
     #Myname{
         font-size: 35px;
         transform:translate(0rem,2rem);
@@ -714,7 +710,7 @@ button:hover {
     }
     #typing-text{
         position: absolute;
-        transform: translate(0rem,-9.5rem);
+        transform: translate(0rem,-12rem);
         height:50px;
         width: 280px;
         text-align: justify;
