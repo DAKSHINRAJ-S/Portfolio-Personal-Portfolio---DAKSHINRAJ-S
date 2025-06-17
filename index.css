@@ -693,7 +693,7 @@ button:hover {
     }
 
     #hire-container{
-        margin-top:2rem;
+        transform: translate(-22rem,12rem);
     }
     #Myname{
         font-size: 35px;
