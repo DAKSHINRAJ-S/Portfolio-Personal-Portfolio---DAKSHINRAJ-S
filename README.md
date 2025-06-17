@@ -1,10 +1,10 @@
-# 🧑‍💻 Dakshinraj's Developer Portfolio
+# Dakshinraj's Developer Portfolio
 
 Welcome to my personal web developer portfolio, built using **HTML, CSS, and JavaScript**. This site showcases my profile, skills, projects, and contact information in a clean, interactive format.
 
 ## 🌐 Live Preview
 
-[Click here to view the portfolio](https://your-username.github.io/your-repo-name)  
+[Click here to view the portfolio](https://dakshinraj-s.github.io/Portfolio-Personal-Portfolio---DAKSHINRAJ-S/)  
 > Replace with your actual GitHub Pages URL if deployed.
 
 ---
