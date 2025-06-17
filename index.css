@@ -710,9 +710,9 @@ button:hover {
     }
     #typing-text{
         position: absolute;
-        transform: translate(0rem,-12rem);
+        transform: translate(0rem,-13rem);
         height:50px;
-        width: 280px;
+        width: 290px;
         text-align: justify;
         font-size: 20px;
         line-height: 1.7rem;
