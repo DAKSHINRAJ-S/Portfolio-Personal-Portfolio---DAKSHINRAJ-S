@@ -37,7 +37,7 @@ let email=()=>{
 
 // download resume 
 let download=()=>{
-        window.location.href = 'https://drive.usercontent.google.com/u/0/uc?id=12VEKcslNo4Asx_SYTgCphMxvW2bUWr1A&export=download';
+        window.location.href = 'http://drive.usercontent.google.com/u/0/uc?id=1rO9KyDL1tqaqrvArfvzsEb1PBgmiTjhs&export=download';
 }
 
 // scrolling section 
