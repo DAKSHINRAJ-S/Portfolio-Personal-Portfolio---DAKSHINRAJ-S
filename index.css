@@ -691,6 +691,10 @@ button:hover {
         align-items: center; 
         margin-top: 1.75rem;
     }
+
+    #hire-container{
+        margin-top:2rem;
+    }
     #Myname{
         font-size: 35px;
         transform:translate(0rem,2rem);
